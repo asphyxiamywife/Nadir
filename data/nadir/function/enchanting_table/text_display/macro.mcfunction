@@ -1,4 +1,4 @@
-data modify entity @s start_interpolation set value -1
+data modify entity @s start_interpolation set value 0
 
 $data modify entity @s transformation.scale set from storage nadir:temp animations.scale_up[$(frame)]
 
