@@ -23,7 +23,7 @@
 						{
 							"function": "minecraft:set_components",
 							"components": {
-								"minecraft:item_name": "[\"\",{\"text\":\"Ars Arcana\",\"italic\":false,\"color\":\"#9933cc\"}]",
+								"minecraft:item_name": ["", {"text":"Ars Arcana","italic":false,"color":"#9933cc"}],
 								"minecraft:written_book_content": {
 									"title": "Ars Arcana",
 									"author": "kohara",
