@@ -1,6 +1,8 @@
 {
 	"pack": {
-		"pack_format": 81,
+		"pack_format": 88,
+      		"min_format": 82,
+      		"max_format": 9999,
 		"description": "Enchantment system rehaul and expansion"
 	}
 }
