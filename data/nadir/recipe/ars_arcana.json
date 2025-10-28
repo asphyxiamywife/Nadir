@@ -2,22 +2,18 @@
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "minecraft:blaze_powder"
-		},
-		{
-			"item": "minecraft:enchanted_book"
-		}
+		"minecraft:blaze_powder",
+		"minecraft:enchanted_book"
 	],
 	"result": {
 		"id": "minecraft:written_book",
 		"components": {
 			"minecraft:max_stack_size": 1,
 			"minecraft:lore": [
-				"[\"\"]",
-				"[\"\",{\"text\":\"\\'AKA Nadir guidebook\\'\",\"color\":\"#eeeeee\"}]"
+				[""] ,
+				["", {"text":"'AKA Nadir guidebook'","color":"#eeeeee"}]
 			],
-			"minecraft:item_name": "[\"\",{\"text\":\"Ars Arcana\",\"italic\":false,\"color\":\"#9933cc\"}]",
+			"minecraft:item_name": ["", {"text":"Ars Arcana","italic":false,"color":"#9933cc"}],
 			"minecraft:written_book_content": {
 				"title": "Ars Arcana",
 				"author": "kohara",
